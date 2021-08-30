@@ -9,7 +9,7 @@ A Blueprint for the Digitisation of the first ever Decentralised Ontological Org
 - It was a nascent spirit among the millenials to get more closely connected with their own age groups. 
 - From the initial instincts, these social networks slowly moved into a social capital structure. 
 - It has generated a lot of commoditisation and monetisation of social relationships.
-- However the real and relative value of social capital faded slowly due to excessive inteference of industrial capital.
+- The real and relative value of social capital faded slowly due to excessive inteference of industrial capital.
 - EPISTEME is an attempt to revive the original spirit and self of social networks and social business systems. 
 
 ## Concepts
