@@ -4,7 +4,7 @@ A Blueprint for the Digitisation of the first ever Decentralised Ontological Org
 ## Pretext
 - Social Networks like Facebook, LinkedIn, Instagram, Twitter etc. are on the verge of a cataclysmic change. 
 - These social networks transform themselves to become DOO, they will fade into an oblivion. 
-- Episteme is a Decentralised Ontological Organisation created by Semiott Society to transform the social networks. 
+- Episteme is a DOO created by Semiott Society to transform the social networks. 
 
 ## Context
 - Social Networks are the manifestation of an epistemological instinct in the internet society in the early 2000s. 
