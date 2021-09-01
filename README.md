@@ -27,3 +27,12 @@ A Manifesto for the Digitisation of the first ever Decentralised Ontological Org
 ## Regulations
 
 ## Roadmap
+
+## References
+- https://consensys.net/blog/codefi/daos/
+- https://youtu.be/lrfCD6bBNpY
+- https://youtu.be/EJrPW3254wg
+- https://youtu.be/SYPzqRaN4zA
+- https://youtu.be/Pyi8-qm02hs
+- https://youtu.be/IxmGvwpf5no
+- https://youtu.be/K77bw49gynM
