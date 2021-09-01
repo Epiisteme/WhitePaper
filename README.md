@@ -1,5 +1,5 @@
-# Bluepaper
-A Blueprint for the Digitisation of the first ever Decentralised Ontological Organisation (DOO) - Episteme
+# Yellopaper
+A Manifesto for the Digitisation of the first ever Decentralised Ontological Organisation (DOO) - Episteme
 
 ## Pretext
 - Social Networks like Facebook, LinkedIn, Instagram, Twitter etc. are on the verge of a cataclysmic change. 
@@ -15,3 +15,15 @@ A Blueprint for the Digitisation of the first ever Decentralised Ontological Org
 - EPISTEME is an attempt to revive the original spirit and self of social networks and social business systems. 
 
 ## Concepts
+
+## Constructs
+
+## Inspirations
+
+## Integrations
+
+## Implementation
+
+## Regulations
+
+## Roadmap
